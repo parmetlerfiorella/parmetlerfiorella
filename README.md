@@ -3,7 +3,7 @@
  Me considero una persona proactiva y dinámica en mi labor, me gusta estar en constante evolución acerca de mis conocimientos, aprendiendo ,adquiriendo 
   y puliendo mejoras para mis  habilidades en el desarrollo web.
 
-- Actualmente me encuentro fortaleciendo mis conociemientos en las herramientas que manejo.
+- Actualmente me encuentro fortaleciendo mis conocimientos en las herramientas que manejo.
 - 📥 Mi contacto parmetlerfiorell@gmail.com
 - 🌐 Mi Perfil de [Linkedin](https://www.linkedin.com/in/fiorella-parmetler-63632424a/ "Fiorella Parmetler - Linkedin")
 
