@@ -2,6 +2,7 @@
 
  Me considero una persona proactiva y dinámica en mi labor, me gusta estar en constante evolución acerca de mis conocimientos, aprendiendo ,adquiriendo 
   y puliendo mejoras para mis  habilidades en el desarrollo web.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parmetlerfiorella&label=Profile%20views&color=0e75b6&style=flat" alt="parmetlerfiorella" /> </p>
 
 - Actualmente me encuentro fortaleciendo mis conocimientos en las herramientas que manejo.
 - 📥 Mi contacto parmetlerfiorell@gmail.com
