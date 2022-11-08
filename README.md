@@ -1,4 +1,5 @@
 # Hola 👋 Soy Fiorella Parmetler
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
 
  Me considero una persona proactiva y dinámica en mi labor, me gusta estar en constante evolución acerca de mis conocimientos, aprendiendo ,adquiriendo 
   y puliendo mejoras para mis  habilidades en el desarrollo web.
