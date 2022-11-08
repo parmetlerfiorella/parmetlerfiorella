@@ -1,5 +1,5 @@
 # Hola 👋 Soy Fiorella Parmetler
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif">
 
  Me considero una persona proactiva y dinámica en mi labor, me gusta estar en constante evolución acerca de mis conocimientos, aprendiendo ,adquiriendo 
   y puliendo mejoras para mis  habilidades en el desarrollo web.
