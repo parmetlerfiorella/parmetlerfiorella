@@ -6,7 +6,7 @@
 
 - Actualmente me encuentro aprendiendo y fortaleciendo mis conocimientos con 🌱**TypeScript and React Native**. 
 
--🌱**TypeScript and React Native**
+
 - 📥 Mi contacto parmetlerfiorell@gmail.com
 - 🌐 Mi Perfil de [Linkedin](https://www.linkedin.com/in/fiorella-parmetler-63632424a/ "Fiorella Parmetler - Linkedin")
 
