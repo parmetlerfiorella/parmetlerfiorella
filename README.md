@@ -4,8 +4,9 @@
   y puliendo mejoras para mis  habilidades en el desarrollo web.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parmetlerfiorella&label=Profile%20views&color=0e75b6&style=flat" alt="parmetlerfiorella" /> </p>
 
-- Actualmente me encuentro fortaleciendo mis conocimientos en las herramientas que manejo.
--🌱 I’m currently learning **TypeScript and React Native**
+- Actualmente me encuentro fortaleciendo mis conocimientos en las herramientas que manejo. 🌱**TypeScript and React Native**
+
+
 - 📥 Mi contacto parmetlerfiorell@gmail.com
 - 🌐 Mi Perfil de [Linkedin](https://www.linkedin.com/in/fiorella-parmetler-63632424a/ "Fiorella Parmetler - Linkedin")
 
